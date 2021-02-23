@@ -6,6 +6,8 @@
 # description:  my very first go program
 # This is a change of the grandest order
 # These comments are SOLID
+# Adding some lines to cause a collision
+# This collision should result in a Git Bash error
 
 package main
 import "fmt"
