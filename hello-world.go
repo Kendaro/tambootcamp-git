@@ -5,6 +5,8 @@
 # file:  hello-world.go
 # description:  my very first go program
 # This is a change of the grandest order
+# Adding some lines to cause a collision
+# This collision should result in a Git Bash error
 
 package main
 import "fmt"
